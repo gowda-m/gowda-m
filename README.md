@@ -73,7 +73,7 @@ I specialize in building **secure, stable, and automated infrastructure** for en
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- 💼 LinkedIn: https://www.linkedin.com/in/gowda-m-ba7412187
 - 💻 GitHub: https://github.com/gowda-m
 - 📧 Email: gowdaviji58@gmail.com
 
