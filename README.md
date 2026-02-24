@@ -9,6 +9,6 @@ On the DevOps side, I have hands-on exposure to **CI/CD pipelines using Jenkins*
 
 I am continuously strengthening my skills in **CI/CD automation, infrastructure automation, containerization, and cloud-ready DevOps practices**, with a strong focus on delivering **scalable, reliable, and production-ready systems**.
 
-💼 Experience → [View Experience](./experience.md)
+💼 Experience → [View Experience](https://github.com/gowda-m/portfolio/blob/main/experience.md)
 
 📬 **Contact** → [View Contact Details](https://github.com/gowda-m/portfolio/blob/main/contact.md)
