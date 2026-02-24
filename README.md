@@ -79,16 +79,4 @@ I specialize in building **secure, stable, and automated infrastructure** for en
 
 ---
 
-## 🚀 Goals
-
-I am continuously strengthening my skills in:
-
-- CI/CD Automation
-- Infrastructure as Code
-- Container Orchestration
-- Cloud-ready DevOps Practices
-- Scalable & Production-Ready Systems
-
----
-
 ⭐ *Always learning. Always automating. Always improving.*
