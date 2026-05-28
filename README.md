@@ -11,7 +11,7 @@ I specialize in building **secure, stable, and automated infrastructure** for en
 
 - 🔭 Currently working on **Infrastructure Automation, CI/CD Automation & DevOps Projects**
 - 🌱 Currently learning **Kubernetes & Cloud DevOps**
-- 💬 Ask me about **Linux, Docker, VMware, Automation, DevOps**
+- 💬 Ask me about **Linux, Docker, VMware, AI Automation, DevOps**
 - 📫 Reach me at: **gowdaviji58@gmail.com**
 
 ---
